@@ -9,7 +9,7 @@ This README would normally document whatever steps are necessary to get your app
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
-* Get the backend running by:
+* Get the server running by:
 * cd backend && npm install && npm start 
 * And then in a new terminal, get the client running by:
 * cd client && npm install && npm start
