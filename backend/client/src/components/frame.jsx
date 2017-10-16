@@ -61,7 +61,7 @@ class Frame extends React.Component {
                 API.doCalc(this.state)
                     .then((response)=>{
                             this.setState({
-                                answer: response.APIanswer.toString(),
+                                answer: response.APIanswer,
                             })
                         });
                 break;
